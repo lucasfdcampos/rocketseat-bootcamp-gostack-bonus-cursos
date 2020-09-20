@@ -245,6 +245,12 @@ div.wrapper-content aside.profile ul.list li img {
   margin-right: 10px;
 }
 
+div.wrapper-content aside.profile ul.list li a {
+  text-decoration: none;
+  text-decoration: none;
+  color: #3bb9e3;
+}
+
 div.wrapper-content aside.profile .widget {
   margin-top: 20px;
 }
