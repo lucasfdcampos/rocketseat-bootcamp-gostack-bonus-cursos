@@ -10,20 +10,16 @@
 
 <img src="./images/layout.png" alt="Layout">
 
-<br>
 <h2>📌 Sobre</h2>
-<hr>
 
-<span>
-Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
-<span>
 <p>
 Representação de um clone do layout do Twitter 🐦 em html e css puros utilizando flexbox.
 </p>
-
+<span>
+Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
+<span>
 
 <h2>📃 Como obter o layout</h2>
-<hr>
 
 ```bash
   # clone o repositório
@@ -34,5 +30,4 @@ Representação de um clone do layout do Twitter 🐦 em html e css puros utiliz
 ```
 
 <h2>📝 Autor</h2>
-<hr>
 <a href="https://www.linkedin.com/in/lucasfdcampos/">Linkedin</a>
