@@ -14,8 +14,6 @@
 Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
 <span>
 
-<hr>
-
 <img src="./images/layout.png" alt="Layout">
 
 <br />
