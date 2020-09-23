@@ -22,10 +22,11 @@ Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Ferna
 
 ```bash
   # clone o repositório
-  git clone https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos.git
+  $ git clone https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos.git
 
-  cd flexbox
+  # acesse o diretório
+  $ cd flexbox
 ```
 
 <h2>📝 Autor</h2>
-<a href="https://www.linkedin.com/in/lucasfdcampos/">Linkedin</a>
+<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
