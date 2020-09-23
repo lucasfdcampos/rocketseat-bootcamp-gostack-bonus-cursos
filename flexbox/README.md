@@ -10,11 +10,9 @@
 <p>
 
 <h2>📌 Sobre</h2>
-<span>
+<p>
 Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
-<span>
-
-<br />
+<p>
 
 <img src="./images/layout.png" alt="Layout">
 
