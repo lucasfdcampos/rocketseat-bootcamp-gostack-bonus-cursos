@@ -13,8 +13,8 @@
 
 # Menu
 - [Sobre](#pushpin-sobre)
-- [Layout](#laptop-layout)
-- [Como obter o layout](#laptop-como-obter-o-layout)
+- [Layout](#computer-layout)
+- [Como obter o layout](#page_with_curl-como-obter-o-layout)
 - [Autor](#memo-autor)
 
 
@@ -22,13 +22,13 @@
 Curso de **Flexbox** ministrado por [Diego Fernandes](https://github.com/diego3gDiego). Recompensa de desafios do Bootcamp GoStack.
 
 
-## :laptop: Layout
+## :computer: Layout
 
 <img src="./images/layout.png" alt="Layout">
 
 <br />
 
-<h2>📃 Como obter o layout</h2>
+## :page_with_curl: Como obter o layout
 
 ```bash
   # clone o repositório
@@ -38,5 +38,5 @@ Curso de **Flexbox** ministrado por [Diego Fernandes](https://github.com/diego3g
   $ cd flexbox
 ```
 
-<h2>📝 Autor</h2>
+## :memo: Autor
 <a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
