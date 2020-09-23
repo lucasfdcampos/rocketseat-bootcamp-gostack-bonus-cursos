@@ -19,14 +19,12 @@
 
 
 ## :pushpin: Sobre
-Curso de **Flexbox** ministrado por [Diego Fernandes](https://github.com/diego3gDiego). Recompensa de desafios do Bootcamp GoStack.
+Curso de **Flexbox** ministrado por [Diego Fernandes](https://github.com/diego3g). Recompensa de desafios do Bootcamp GoStack.
 
 
 ## :computer: Layout
 
 <img src="./images/layout.png" alt="Layout">
-
-<br />
 
 ## :page_with_curl: Como obter o layout
 
