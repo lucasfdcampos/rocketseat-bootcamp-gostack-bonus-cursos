@@ -12,9 +12,9 @@
 <p>
 
 # Menu
-- [Sobre](#Sobre)
-- [Como obter o layout](#Como-obter-o-layout)
-- [Autor](#Autor)
+- [Sobre](#pushpin-sobre)
+- [Como obter o layout](#laptop-como-obter-o-layout)
+- [Autor](#memo-autor)
 
 
 <h2>📌 Sobre</h2>
