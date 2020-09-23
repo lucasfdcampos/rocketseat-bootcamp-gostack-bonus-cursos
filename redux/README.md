@@ -1,5 +1,5 @@
-# Curso de Redux
-> Código de desenvolvimento do curso de gerenciamento de estado utilizando **Redux**.
+# Curso de Flexbox
+> Código de desenvolvimento do curso de gerenciamento de estado utilizando **Redux** e **Redux Saga**.
 
 <p>
 <img src="https://img.shields.io/badge/-Redux-764ABC" />
@@ -10,16 +10,18 @@
 
 <p>
 
-<h2>📌 Sobre</h2>
-<p>
-Curso de <b>Redux</b> ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
-<p>
+# Menu
+- [Sobre](#pushpin-sobre)
+- [Configuração para desenvolvimento](#page_with_curl-configuração-para-desenvolvimento)
+- [Autor](#memo-autor)
 
-<img src="./images/layout.png" alt="Layout">
 
-<br />
+## :pushpin: Sobre
+Curso de **Redux** ministrado por [Diego Fernandes](https://github.com/diego3g). Recompensa de desafios do Bootcamp GoStack.
+<p>Criado a simulação de produtos num e-commerce e com o gerenciamento de estado através do Redux verifica-se a disponibilidade em estoque para adicionar ao carrinho.</p>
 
-<h2>⚙️ Configuração para Desenvolvimento</h2>
+
+## :gear: Configuração para desenvolvimento
 
 ```bash
   # clone o repositório
@@ -28,6 +30,9 @@ Curso de <b>Redux</b> ministrado por <a href="https://github.com/diego3g">Diego 
   # acesse o diretório
   $ cd redux
 
+  # instale as dependências
+  $ yarn 
+
   # inicie o server JSON-server
   $ yarn server
 
@@ -35,5 +40,5 @@ Curso de <b>Redux</b> ministrado por <a href="https://github.com/diego3g">Diego 
   $ yarn start
 ```
 
-<h2>📝 Autor</h2>
+## :memo: Autor
 <a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
