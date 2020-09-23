@@ -13,16 +13,16 @@
 
 # Menu
 - [Sobre](#pushpin-sobre)
+- [Layout](#laptop-layout)
 - [Como obter o layout](#laptop-como-obter-o-layout)
 - [Autor](#memo-autor)
 
 
-<h2>📌 Sobre</h2>
-<p>
-Curso de <b>Flexbox</b> ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
-<p>
+## :pushpin: Sobre
+Curso de **Flexbox** ministrado por [Diego Fernandes](https://github.com/diego3gDiego). Recompensa de desafios do Bootcamp GoStack.
 
-<h2>💻 Layout</h2>
+
+## :laptop: Layout
 
 <img src="./images/layout.png" alt="Layout">
 
