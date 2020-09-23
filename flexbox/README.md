@@ -1,7 +1,7 @@
 # Curso de Flexbox
-> Representação de um clone do layout do Twitter 🐦 em html e css puros utilizando flexbox.
+> Representação de um clone do layout do Twitter 🐦 em html e css puros utilizando **Flexbox**.
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26" />
 
 <img src="https://img.shields.io/badge/-CSS3-1572B6" />
@@ -11,7 +11,7 @@
 
 <h2>📌 Sobre</h2>
 <p>
-Curso de Flexbox ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
+Curso de <b>Flexbox</b> ministrado por <a href="https://github.com/diego3g">Diego Fernandes</a>. Recompensa de desafios do Bootcamp GoStack.
 <p>
 
 <img src="./images/layout.png" alt="Layout">
