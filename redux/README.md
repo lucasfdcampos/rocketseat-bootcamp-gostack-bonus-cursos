@@ -12,7 +12,7 @@
 
 # Menu
 - [Sobre](#pushpin-sobre)
-- [Configuração para desenvolvimento](#gear-configuração-para-desenvolvimento)
+- [Configuração para desenvolvimento](#gear-desenvolvimento)
 - [Autor](#memo-autor)
 
 
@@ -21,7 +21,7 @@ Curso de **Redux** ministrado por [Diego Fernandes](https://github.com/diego3g).
 <p>Criado a simulação de produtos num e-commerce e com o gerenciamento de estado através do Redux verifica-se a disponibilidade em estoque para adicionar ao carrinho.</p>
 
 
-## :gear: Configuração para desenvolvimento
+## :gear: Desenvolvimento
 
 ```bash
   # clone o repositório
