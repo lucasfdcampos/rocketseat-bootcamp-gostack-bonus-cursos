@@ -9,7 +9,7 @@
 <h1 align="center"> Bootcamp Cursos </h1>
 
 # Menu
-- [Motivação](#pushpin-motivação)
+- [Motivação](#trophy-motivação)
 - [Cursos](#books-cursos)
 - [Autor](#memo-autor)
 
