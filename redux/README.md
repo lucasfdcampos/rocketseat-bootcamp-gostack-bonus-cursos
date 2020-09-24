@@ -12,7 +12,7 @@
 
 # Menu
 - [Sobre](#pushpin-sobre)
-- [Configuração para desenvolvimento](#page_with_curl-configuração-para-desenvolvimento)
+- [Configuração para desenvolvimento](#gear-configuração-para-desenvolvimento)
 - [Autor](#memo-autor)
 
 
