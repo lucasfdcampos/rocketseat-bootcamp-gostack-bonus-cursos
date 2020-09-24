@@ -1,4 +1,4 @@
-# Curso de Flexbox
+# Curso de Redux
 > Código de desenvolvimento do curso de gerenciamento de estado utilizando **Redux** e **Redux Saga**.
 
 <p>
