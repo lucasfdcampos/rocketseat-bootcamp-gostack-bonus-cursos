@@ -9,11 +9,11 @@
 <h1 align="center"> Bootcamp Cursos </h1>
 
 # Menu
-- [Motivação](#pushpin-sobre)
+- [Motivação](#pushpin-motivação)
 - [Cursos](#books-cursos)
 - [Autor](#memo-autor)
 
-## :pushpin: Motivação
+## :trophy: Motivação
 Repositório dedicado aos cursos bônus - recompensas dos desafios do bootcamp GoStack.
 
 ## :books: Cursos
