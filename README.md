@@ -14,7 +14,7 @@
 - [Autor](#memo-autor)
 
 ## :trophy: Motivação
-Repositório dedicado aos cursos bônus - recompensas dos desafios do bootcamp GoStack.
+Repositório dedicado aos cursos bônus/recompensas de desafios do bootcamp GoStack da [Rocketseat](https://rocketseat.com.br").
 
 ## :books: Cursos
 - [Flexbox](https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos/tree/master/flexbox)
