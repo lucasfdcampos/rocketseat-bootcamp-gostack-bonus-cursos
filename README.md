@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img src="https://img.shields.io/badge/from-rocketseat-blueviolet" />
+      <img src="https://img.shields.io/badge/from-rocketseat-blueviolet?style=for-the-badge" />
   </a>
 </p>
 

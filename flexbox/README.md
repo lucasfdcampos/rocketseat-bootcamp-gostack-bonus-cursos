@@ -2,14 +2,14 @@
 > Representação de um clone do layout do Twitter 🐦 em html e css puros utilizando **Flexbox**.
 
 <p>
-  <img src="https://img.shields.io/badge/-Flexbox-1572B6" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26" />
+  <img src="https://img.shields.io/badge/-Flexbox-1572B6?style=for-the-badge&logo=css3" />
 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
 
   <a href="https://rocketseat.com.br">
-    <img src="https://img.shields.io/badge/from-rocketseat-blueviolet" />
+      <img src="https://img.shields.io/badge/from-rocketseat-blueviolet?style=for-the-badge" />
   </a>
 <p>
 
