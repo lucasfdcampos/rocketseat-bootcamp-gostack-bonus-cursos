@@ -2,6 +2,10 @@
 > Código de desenvolvimento do curso de gerenciamento de estado utilizando **Redux** e **Redux Saga**.
 
 <p>
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" />  
