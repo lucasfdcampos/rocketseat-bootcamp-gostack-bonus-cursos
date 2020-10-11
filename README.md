@@ -25,7 +25,7 @@
 ## :trophy: Motivation
 Repository dedicated to [Rocketseat](https://rocketseat.com.br) GoStack bootcamp challenge bonus / reward courses.
 
-## :rocket: Tecnologies
+## :rocket: Technologies
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)

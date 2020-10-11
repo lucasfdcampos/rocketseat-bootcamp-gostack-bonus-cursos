@@ -1,54 +1,66 @@
-# Curso de Redux
-> Código de desenvolvimento do curso de gerenciamento de estado utilizando **Redux** e **Redux Saga**.
+<h1 align="center">
+  <img src="../flexbox/images/redux-logo-svg-vector.svg" height="200" width="600" max-width="100%" alt="redux">
+</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
+<h3 align="center">
+  Redux course by <a href="https://rocketseat.com.br/">Rocketseat</a>
+</h3>
 
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasfdcampos/"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Lucas%20Campos-%239871F5"></a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos?color=%239871F5">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos?color=%239871F5">
+  <a href="https://github.com/lucasfdcampos/ecoleta/commits/master"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos?color=%239871F5"></a>
+  <a href="https://github.com/lucasfdcampos/ecoleta/issues"><img alt="Repository issues" src="https://img.shields.io/github/issues/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos?color=%239871F5"></a>
+</p>
 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<p align="center">
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-configuration">Configuration</a>
+</p>
 
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux" />  
+## :pushpin: About
 
-  <a href="https://rocketseat.com.br">
-      <img src="https://img.shields.io/badge/from-rocketseat-blueviolet?style=for-the-badge" />
-  </a>
-<p>
+**Redux** course taught by [Diego Fernandes](https://github.com/diego3g). Recompensa de desafios do Bootcamp GoStack.
 
-# Menu
-- [Sobre](#pushpin-sobre)
-- [Configuração para desenvolvimento](#gear-configuração-para-desenvolvimento)
-- [Autor](#memo-autor)
+Created the simulation of products in an e-commerce and with state management through Redux, the availability in stock to be added to the cart is checked.
 
-
-## :pushpin: Sobre
-Curso de **Redux** ministrado por [Diego Fernandes](https://github.com/diego3g). Recompensa de desafios do Bootcamp GoStack.
-<p>Criado a simulação de produtos num e-commerce e com o gerenciamento de estado através do Redux verifica-se a disponibilidade em estoque para adicionar ao carrinho.</p>
-
-
-## :gear: Configuração para desenvolvimento
+## :gear: Configuration
 
 ```bash
-  # clone o repositório
-  $ git clone https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos.git
-
-  # acesse o diretório
-  $ cd redux
-
-  # instale as dependências
-  $ yarn 
-
-  # inicie o server JSON-server
-  $ yarn server
-
-  # inicie o projeto
-  $ yarn start
+$ git clone https://github.com/lucasfdcampos/rocketseat-bootcamp-gostack-bonus-cursos.git
 ```
 
-## :memo: Autor
+**Access the directory**
+
+```bash
+$ cd redux
+```
+
+**Install dependencies**
+
+```bash
+$ yarn
+```
+
+**Start the server (JSON-server)**
+
+```bash
+$ yarn server
+```
+
+**Run the project**
+
+```bash
+$ yarn start
+```
+
+---
+
 <a href="https://github.com/lucasfdcampos">
     <img src="https://img.shields.io/badge/-Lucas%20Campos-000000?style=for-the-badge&logo=GitHub&logoColor=#000000" />
 </a>
 &nbsp
-<a href="https://linkedin.com/in/lucasfdcampos"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://linkedin.com/in/lucasfdcampos">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
