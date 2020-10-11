@@ -18,12 +18,14 @@
 
 <p align="center">
   <a href="#trophy-motivation">Motivation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-courses">Courses</a>
 </p>
 
 ## :trophy: Motivation
 Repository dedicated to [Rocketseat](https://rocketseat.com.br) GoStack bootcamp challenge bonus / reward courses.
+
+## :rocket: Tecnologies
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
