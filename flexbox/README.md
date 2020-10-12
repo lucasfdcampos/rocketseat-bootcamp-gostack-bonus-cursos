@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Flexbox course 
+  Flexbox course by <a href="https://rocketseat.com.br/">Rocketseat</a>
 </h3>
 
 <p align="center">
