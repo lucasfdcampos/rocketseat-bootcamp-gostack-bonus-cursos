@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-configuration">Configuration</a>
+  <a href="#pushpin-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#gear-configuration">Configuration</a>
 </p>
 
 ## :pushpin: About
 
-**Redux** course taught by [Diego Fernandes](https://github.com/diego3g). Recompensa de desafios do Bootcamp GoStack.
+**Redux** course taught by [Diego Fernandes](https://github.com/diego3g). Reward challenges from Bootcamp GoStack.
 
 Created the simulation of products in an e-commerce and with state management through Redux, the availability in stock to be added to the cart is checked.
 
